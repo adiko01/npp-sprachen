@@ -8,4 +8,4 @@ This repository represents a small collection of my syntax highlighters (also ca
 
 |Datei|Sprache oder Programm|Dateiendung|Aktuelle Version|
 |-----|-----|-----|-----|
-||||
+|[npp-UDL-gitignore.xml](UDL/npp-UDL-gitignore.xml)|git|.gitignore|1.0|
